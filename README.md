@@ -42,7 +42,7 @@ I enjoy turning ideas into functional, user-friendly web applications. My focus 
 Here are a few highlights of the projects I've worked on:
 
 - 📚 **Book Donation & Review App**  
-  A full-stack web app that allows users to donate and review books. Built using Node.js, Express, and PostgreSQL.
+  A full-stack web app that allows users to donate and review books. Built using react, happi, and PostgreSQL.
 
 - 🎵 **Music Playlist API**  
   RESTful API for managing music playlists with authentication and export features using RabbitMQ and Nodemailer.
