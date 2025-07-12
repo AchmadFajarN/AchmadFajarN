@@ -19,8 +19,8 @@ I enjoy turning ideas into functional, user-friendly web applications. My focus 
 - Responsive Design & Accessibility
 
 **Back-End:**
-- Node.js, Express.js
-- PostgreSQL, MongoDB
+- Node.js, Express.js, Happi.js
+- PostgreSQL
 - REST API development
 - Authentication (JWT, OAuth)
 
