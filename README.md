@@ -1,7 +1,4 @@
-# Hi, I'm Achmad Fajar 👋  
-**JavaScript Web Developer | Front-End & Back-End Developer | Passionate About Building Modern and Scalable Web Applications**
-
----
+![Banner](./src/github-header-image.png)
 
 ## 👨‍💻 About Me
 
@@ -14,20 +11,29 @@ I enjoy turning ideas into functional, user-friendly web applications. My focus 
 ## 🛠️ Tech Stack
 
 **Front-End:**
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Tailwind CSS
-- Responsive Design & Accessibility
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 **Back-End:**
-- Node.js, Express.js, Happi.js
-- PostgreSQL
-- REST API development
-- Authentication (JWT, OAuth)
+
+![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![jwt](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
 
 **Tools & Others:**
-- Git & GitHub
-- Postman, VS Code
-- Linux Terminal, NPM
+
+![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![gitHub](  https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![postman](  https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
