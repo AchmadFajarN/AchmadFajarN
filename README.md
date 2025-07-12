@@ -52,7 +52,7 @@ Here are a few highlights of the projects I've worked on:
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/achmad-fajar-28b00335a/)  
 - 💼 [Portfolio Website](https://yourportfolio.com) (Cooming Soon)  
-- 📧 Email: your.email@example.com
+- 📧 Email: achmadfajar712@gmail.com
 
 ---
 
