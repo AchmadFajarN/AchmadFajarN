@@ -37,6 +37,14 @@ I'm a web developer with a strong interest in JavaScript technologies — from c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
 </div>
 
+**Tools & Others:**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vite,git,github,bash,postman,ubuntu" />
+  </a>
+</p>
+
 ## 📌 Projects
 
 Here are a few highlights of the projects I've worked on:
